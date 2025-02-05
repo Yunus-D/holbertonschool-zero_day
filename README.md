@@ -1,1 +1,2 @@
 ici
+c'est magique
